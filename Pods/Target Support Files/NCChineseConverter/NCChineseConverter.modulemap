@@ -1,0 +1,6 @@
+framework module NCChineseConverter {
+  umbrella header "NCChineseConverter-umbrella.h"
+
+  export *
+  module * { export * }
+}

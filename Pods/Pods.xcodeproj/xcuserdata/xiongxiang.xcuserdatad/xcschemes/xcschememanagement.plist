@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GVUserDefaults.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MonkeyKing.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NCChineseConverter.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Diary.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>pop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>859809A88D4BDD630556D98C650D6518</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C17C9B294C800D3E8275D0A9EDC39873</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E70B14E7442173D6D24183429B32C643</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE334A9067E888820378AA07AE6EB22D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F0576B5886043DFD55CF5370F6B0BA5E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
